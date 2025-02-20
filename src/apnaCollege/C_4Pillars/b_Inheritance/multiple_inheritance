@@ -1,0 +1,5 @@
+
+in java , we use it as interfaces
+
+Java does not support multiple inheritance with classes (to avoid the diamond problem), but hybrid inheritance can be achieved using a combination of inheritance and interfaces.
+
