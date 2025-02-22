@@ -28,7 +28,5 @@ public class CopyConstructor {
         Student_ s2 = new Student_(s1);
         s2.printInfo();
 
-
-
     }
 }
